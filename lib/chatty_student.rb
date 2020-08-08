@@ -12,5 +12,5 @@ class ChattyStudent < Student
       i +=1
     end
   end
-    
+
     
