@@ -7,7 +7,7 @@ class ChattyStudent < Student
 
   def raise_hand
     i = 0
-    do while i < 10
+    while i < 10 do
       super
       i +=1
     end
